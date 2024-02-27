@@ -1,0 +1,38 @@
+h1{
+    padding: 15px;
+    border: 10px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: aqua;
+    color: rgb(255, 0, 0);
+    text-align : center;
+    text-transform: uppercase;
+    text-decoration: underline;    
+
+}
+p{
+    color:blue ;
+    text-align:justify ;
+    text-transform: lowercase;
+    border-radius: 25px;
+    border-style: solid;
+    padding: 10px ;
+}
+
+img{
+    width: 35%;
+}
+*{
+    font-family: arial;
+    margin: 25px;
+    
+}
+body{
+    background-color: bisque;
+}
+h2{
+    padding: 40%;
+    border-radius:  60%;
+    
+    border-style: solid;
+}
